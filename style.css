@@ -73,7 +73,7 @@ button{
 
 .main{
     flex: 1;
-    padding: 0 20%;
+    /* padding: 0 20%; */
 }
 
 .main h2{
@@ -105,3 +105,22 @@ button{
     border: 4px #3882f6 solid;
     border-radius: 10px;
 }
+
+.main-quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: 100;
+    padding: 80px 25%;
+}
+
+.main-quote p{
+    display: flex;
+    flex-direction: column;
+    color: #1f2937;
+}
+
+.quoted{
+    font-weight: 600;
+    align-self: flex-end;
+}
+
