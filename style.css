@@ -149,3 +149,10 @@ button{
 .main-modal button{
     border: 2px solid #f9faf8;
 }
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
